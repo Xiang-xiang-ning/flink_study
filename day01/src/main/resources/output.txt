@@ -1,0 +1,4 @@
+sensor_6,15.4
+sensor_6,28.4
+sensor_6,18.4
+sensor_6,18.4
